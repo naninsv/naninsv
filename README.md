@@ -70,8 +70,6 @@ I'm a 🚀 **DATA ANALYST** - Turning Data into Insights
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naninsv&show_icons=true&locale=en&layout=compact&langs_count=10&exclude_repo=naninsv.github.io&hide=javascript,html&hide_progress=true" alt="naninsv's Most Used Languages" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naninsv&show_icons=true&locale=en" alt="naninsv's GitHub Stats" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naninsv&" alt="naninsv's GitHub Streak" /></p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
