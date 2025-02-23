@@ -66,7 +66,31 @@ I'm a 🚀 **DATA ANALYST** - Turning Data into Insights
   </tr>
 </table>
 
+## 📊 GitHub Stats & Most Used Languages  
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naninsv&show_icons=true&locale=en&layout=compact&langs_count=10&exclude_repo=naninsv.github.io&hide=javascript,html&hide_progress=true" alt="naninsv's Most Used Languages" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naninsv&show_icons=true&locale=en" alt="naninsv's GitHub Stats" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naninsv&" alt="naninsv's GitHub Streak" /></p>
+
+## 🔗 Connect with Me  
+
+<p>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:YOUR-EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+## 🎯 Conclusion  
+
+I am passionate about data analytics, transforming raw data into meaningful insights. With expertise in Python, SQL, Power BI, and Tableau, I am committed to solving real-world data problems.  
+Feel free to connect with me to discuss data analytics, projects, or career opportunities. 🚀  
 
 
 
