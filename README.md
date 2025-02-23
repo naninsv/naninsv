@@ -74,16 +74,13 @@ I'm a 🚀 **DATA ANALYST** - Turning Data into Insights
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naninsv&" alt="naninsv's GitHub Streak" /></p>
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 ## 🔗 Connect with Me  
 
-<p>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:YOUR-EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narayanan01/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nani02011999@gmail.com)
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ---
 
