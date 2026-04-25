@@ -14,7 +14,7 @@ I'm a 🚀 **DATA ANALYST/Enginner** - Turning Data into Insights
 
 - 🔭  **Data Analyst/Engineer**  
 - 🔍 Love exploring data to solve real-world problems. 
-- 🛠 Skilled in **AI/ML,Python, RAG, AWS,Hadoop, Pyspark, SQL, Excel, Power BI, Tableau, ML, and Statistics**.  
+- 🛠 Skilled in **AI/ML,Python, RAG, AWS, Hadoop, Pyspark, SQL, Excel, Power BI, Tableau, ML, and Statistics**.  
 - 📊 Experienced in **data visualization** and simplifying complex data.  
 - 🏆 Strong analytical and problem-solving skills.  
 - ⚡ Fun fact: **Data storytelling is like magic—insights appear where numbers once stood.**
@@ -55,12 +55,12 @@ I'm a 🚀 **DATA ANALYST/Enginner** - Turning Data into Insights
     <td align="center"><img src="https://img.shields.io/badge/Hadoop-%23231F20.svg?style=for-the-badge&logo=apache-hadoop&logoColor=yellow" /></td>
     <td align="center"><img src="https://img.shields.io/badge/PySpark-%23E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white" /></td>
     <td align="center"><img src="https://img.shields.io/badge/RAG-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Jupyter_Notebook-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/AWS-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" /></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/PyCharm-%23000000.svg?style=for-the-badge&logo=pycharm&logoColor=white" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Data_Visualization-%23F28C28.svg?style=for-the-badge&logo=chart-bar&logoColor=white" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/PowerPoint-%23D24726.svg?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Big Data-%23000000.svg?style=for-the-badge&logo=pycharm&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Kafka-%23F28C28.svg?style=for-the-badge&logo=chart-bar&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Redshift-%23D24726.svg?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" /></td>
     <td align="center"><img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" /></td>
   </tr>
 </table>
