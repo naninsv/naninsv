@@ -43,7 +43,7 @@ I'm a 🚀 **DATA ANALYST/Enginner** - Turning Data into Insights
     <td align="center"><img src="https://img.shields.io/badge/SQL_Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /></td>
     <td align="center"><img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" /></td>
     <td align="center"><img src="https://img.shields.io/badge/Power_BI-%23F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=white" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Power_Query-%230078D7.svg?style=for-the-badge&logo=microsoft&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/AI/ML-%230078D7.svg?style=for-the-badge&logo=microsoft&logoColor=white" /></td>
   </tr>
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/Excel-%23217C00.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white" /></td>
@@ -54,7 +54,7 @@ I'm a 🚀 **DATA ANALYST/Enginner** - Turning Data into Insights
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/Hadoop-%23231F20.svg?style=for-the-badge&logo=apache-hadoop&logoColor=yellow" /></td>
     <td align="center"><img src="https://img.shields.io/badge/PySpark-%23E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/RAG-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></td>
     <td align="center"><img src="https://img.shields.io/badge/Jupyter_Notebook-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" /></td>
   </tr>
   <tr>
