@@ -43,7 +43,7 @@ I'm a 🚀 **DATA ANALYST/Enginner** - Turning Data into Insights
     <td align="center"><img src="https://img.shields.io/badge/SQL_Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /></td>
     <td align="center"><img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" /></td>
     <td align="center"><img src="https://img.shields.io/badge/Power_BI-%23F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=white" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/AI/ML-%230078D7.svg?style=for-the-badge&logo=microsoft&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/AI-ML-%230078D7.svg?style=for-the-badge&logo=microsoft&logoColor=white" /></td>
   </tr>
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/Excel-%23217C00.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white" /></td>
