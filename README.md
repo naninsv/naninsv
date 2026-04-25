@@ -4,7 +4,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-I'm a 🚀 **DATA ANALYST/Enginner** - Turning Data into Insights
+I'm a 🚀 **DATA Analyst/Enginner** - Turning Data into Insights
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -14,7 +14,7 @@ I'm a 🚀 **DATA ANALYST/Enginner** - Turning Data into Insights
 
 - 🔭  **Data Analyst/Engineer**  
 - 🔍 Love exploring data to solve real-world problems. 
-- 🛠 Skilled in **AI/ML,Python, RAG, AWS, Hadoop, Pyspark, SQL, Excel, Power BI, Tableau, ML, and Statistics**.  
+- 🛠 Skilled in **AI/ML, Python, RAG, AWS, Hadoop, Pyspark, SQL, Excel, Power BI, Tableau, ML, and Statistics**.  
 - 📊 Experienced in **data visualization** and simplifying complex data.  
 - 🏆 Strong analytical and problem-solving skills.  
 - ⚡ Fun fact: **Data storytelling is like magic—insights appear where numbers once stood.**
